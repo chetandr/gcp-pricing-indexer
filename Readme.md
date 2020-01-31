@@ -1,4 +1,4 @@
-#How to Run
+# How to Run
 
 clone the repo
 
