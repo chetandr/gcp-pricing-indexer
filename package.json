@@ -1,0 +1,16 @@
+{
+  "name": "gcp_pricing",
+  "version": "1.0.0",
+  "description": "Script to download the GCP pricing and seperate the data in folders",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kleur": "^3.0.3",
+    "listr": "^0.14.3",
+    "request": "^2.88.0"
+  }
+}
